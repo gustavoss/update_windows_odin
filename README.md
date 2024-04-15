@@ -111,8 +111,6 @@ Enable optimization for windowed games. This will allow the fake fullscreen of F
 
 You can use winutil to debloat windows after installation, but I recommend using only the "tweaks" tab, don't use it to install softwares or to mess with windows update: https://github.com/ChrisTitusTech/winutil
 
-Do not install .NET 8.0 (any arch) as it seems to corrupt Windows installation.
-
 Do not install Borderless Gaming as it seems to corrupt Windows installation.
 
 Do not try to remove Test Mode watermark using "Bcdedit.exe -set TESTSIGNING OFF" it will cause boot error
