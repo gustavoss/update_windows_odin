@@ -92,4 +92,6 @@ Install Visual C++ Redistributable:(ARM64, X86 and Xa64): https://learn.microsof
 
 Install DirectX Runtime: https://www.microsoft.com/en-us/download/details.aspx?id=35
 
+Activate Windows 11 using massgrave: https://github.com/massgravel/Microsoft-Activation-Scripts
+
 And you are good to go.
