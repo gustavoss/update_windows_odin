@@ -4,7 +4,7 @@
 ### (GPU DRIVER UPDATE BELOW WINDOWS TUTORIAL↓↓↓)
 
 Follow the oficial Project Valhalla guide from here https://github.com/ProjectValhalla/OdinMultiBootGuides
-until you finish the USB stick preparation
+until you finish the USB stick preparation (right before you insert USB into Odin).
 
 Your USB stick should look like this before starting this guide:
 
