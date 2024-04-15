@@ -1,3 +1,5 @@
+### Disclaimer: I'm not affiliated with Project Valhalla and I'm not responsible for any possible damage to devices
+
 # Install latest Windows 11 ARM image with Project Valhalla installer
 ### (GPU DRIVER UPDATE BELOW WINDOWS TUTORIAL↓↓↓)
 
