@@ -82,7 +82,7 @@ Your USB stick should look like this before starting this guide:
 
 ![App Screenshot](https://i.imgur.com/PtKBMSR.png)
 
-# Games running only in windowed mode:
+# Fix games running only in windowed mode:
 
 Use Fullscreenizer: https://github.com/KasumiL5x/Fullscreenizer
 
