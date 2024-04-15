@@ -90,7 +90,7 @@ Do not install .NET 8.0 (any arch) as it seems to corrupt Windows installation.
 
 Do not install Borderless Gaming as it seems to corrupt Windows installation.
 
-Do not try to remove Test Mode watermark using "Bcdedit.exe -set TESTSIGNING OFF" will cause boot error
+Do not try to remove Test Mode watermark using "Bcdedit.exe -set TESTSIGNING OFF" it will cause boot error
 
 Do not try to remove Test Mode watermark with 3rd party tools, some are flagged with virus, others cause boot error / system corruption
 
@@ -104,7 +104,8 @@ Install DirectX Runtime: https://www.microsoft.com/en-us/download/details.aspx?i
 
 Activate Windows 11 using massgrave: https://github.com/massgravel/Microsoft-Activation-Scripts
 
-You can use dControl to disable Windows Defender to squeeze a little bit more of performance: https://www.sordum.org/9480/defender-control-v2-1/
+You can use dControl to disable Windows Defender to squeeze a little bit more of performance: 
+```https://www.sordum.org/9480/defender-control-v2-1/```
 DO AT YOUR OWN RISK!!!! You have to disable Windows Defender real time protection before downloading dControl
 
 And you are good to go.
