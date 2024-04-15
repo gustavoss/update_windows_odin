@@ -1,4 +1,5 @@
 ### Disclaimer: I'm not affiliated with Project Valhalla and I'm not responsible for any possible damage to devices
+If you need to restore your ODIN to 100% stock android, download the necessary files from [here](https://drive.google.com/file/d/1Xl0rcg2yJT2KV0z2kN-DQEnzfLbB6eUc/view?usp=sharing) and follow the instructions.docx
 
 # Install latest Windows 11 ARM image with Project Valhalla installer
 ### (GPU DRIVER UPDATE BELOW WINDOWS TUTORIAL↓↓↓)
