@@ -94,7 +94,7 @@ You should now be able to enter graphics settings ingame, set everything to low.
 
 Launch game. Decreasing resolution in this game has little to no impact on FPS, so I run it in 1080p.
 
-Open task manager with the game open, go to NFS11.exe process, right click, set affinity and uncheck core 0 and core 1, close game and:
+Open task manager with the game open, go to NFS11.exe process, right click, set affinity and uncheck core 0 and core 1, go back to game and enjoy.
 
 # Fix games running only in windowed mode:
 
