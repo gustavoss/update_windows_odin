@@ -62,7 +62,7 @@ Your USB stick should look like this before starting this guide:
 
 # Update GPU Driver from POCO F1
 
-## This allows to run some games that were not running with stock valhalla drivers (ie Need For Speed Most Wanted 2005)
+## This allows to run some games that were not running with out of the box valhalla drivers (ie Need For Speed Most Wanted 2005)
 
 1 - Go to https://github.com/edk2-porting/WOA-Drivers/releases/tag/2210.1-fix
 
