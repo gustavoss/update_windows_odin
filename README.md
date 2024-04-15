@@ -86,6 +86,16 @@ Video of NFS MW (doesn't work out of the box in Valhalla installation) , DMC4 an
 
 https://www.youtube.com/watch?v=LeEsKOwLIXk
 
+#### To get DMC4 to work you have to go to C:\Users\YOURUSERNAME\AppData\Local\CAPCOM\DEVILMAYCRY4SPECIALEDITION open config.ini with text editor and replace everything with https://pastebin.com/emS7h5Ew
+
+You should now be able to enter graphics settings ingame, set everything to low.
+
+#### To get NFS Hot Pursuit to work, you have to open task manager with the game open, go to NFS11.exe process, right click, set affinity and uncheck core 0 and core 1, close game and:
+
+Go to My Documents\Criterion Games\Need for Speed(TM) Hot Pursuit open config.NFS11Save with text editor and replace everything with https://pastebin.com/37VNQZMU
+
+Launch game. Decreasing resolution in this game has little to no impact on FPS, so I run it in 1080p.
+
 # Fix games running only in windowed mode:
 
 Use Fullscreenizer: https://github.com/KasumiL5x/Fullscreenizer
