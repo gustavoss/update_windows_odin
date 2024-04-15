@@ -17,7 +17,7 @@ Your USB stick should look like this before starting this guide:
 
 2 - Mount the downloaded ISO
 
-3 - We will have to split the new install.wim from the ISO file because it is bigger than 4GB. The Project Valhalla installer uses a FAT32 formatted USB stick and FAT32 does not allow >4GB files. Refer to this documentation for next steps: https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/split-a-windows-image--wim--file-to-span-across-multiple-dvds?view=windows-11
+3 - We will have to split the new install.wim from the ISO file because it is bigger than 4GB. The Project Valhalla installer uses a FAT32 formatted USB stick and FAT32 does not allow >4GB files. I used this documentation for next steps: https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/split-a-windows-image--wim--file-to-span-across-multiple-dvds?view=windows-11
 
 4 - Create a folder named "sources" on the root of your C:\ drive
 
