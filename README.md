@@ -46,6 +46,8 @@ Your USB stick should look like this before starting this guide:
 
     To: dism /Apply-Image /ImageFile:%WinPESource%images\install.swm /SwmFile:%WinPESource%images\install*.swm /Index:2 /ApplyDir:w: /ScratchDir:w:\temp
 
+## ATTENTION: There are 2 lines that contain /Index:1 very close to eachother, its the second one, number 57
+
 12 - Eject your USB and proceed with the installation
 
 ### The "Getting ready" screen on first boot after removing USB might take some time, its not stuck, just wait and it will reboot itself
