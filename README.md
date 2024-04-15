@@ -48,11 +48,11 @@ Your USB stick should look like this before starting this guide:
 
 12 - Eject your USB and proceed with the installation
 
+### The "Getting ready" screen on first boot after removing USB might take some time, its not stuck, just wait and it will reboot itself
+
 ### Protip: during the windows setup do not connect to Wi-Fi to allow creation of local account
 
 ### After installation you can install updates from Windows Update like any other PC, but it takes some time to download and install
-
-### The "Getting ready" screen on first boot after removing USB might take some time, its not stuck, just wait and it will reboot itself
 
 ![App Screenshot](https://i.imgur.com/p2DE1Ay.png)
 
