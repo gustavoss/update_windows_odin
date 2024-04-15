@@ -82,6 +82,14 @@ Your USB stick should look like this before starting this guide:
 
 ![App Screenshot](https://i.imgur.com/PtKBMSR.png)
 
+# Games running only in windowed mode:
+
+Use Fullscreenizer: https://github.com/KasumiL5x/Fullscreenizer
+
+Go to Settings > Display Settings > Graphics Settings > Change default graphics settings.
+
+Enable optimization for windowed games. This will allow the fake fullscreen of Fullscreenizer to run with real fullscreen performance.
+
 # Other tweaks
 
 You can use winutil to debloat windows after installation, but I recommend using only the "tweaks" tab, don't use it to install softwares or to mess with windows update: https://github.com/ChrisTitusTech/winutil
