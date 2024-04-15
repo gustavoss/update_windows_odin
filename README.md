@@ -105,7 +105,9 @@ Install DirectX Runtime: https://www.microsoft.com/en-us/download/details.aspx?i
 Activate Windows 11 using massgrave: https://github.com/massgravel/Microsoft-Activation-Scripts
 
 You can use dControl to disable Windows Defender to squeeze a little bit more of performance: 
-```https://www.sordum.org/9480/defender-control-v2-1/```
+
+https://www.sordum.org/9480/defender-control-v2-1/
+
 DO AT YOUR OWN RISK!!!! You have to disable Windows Defender real time protection before downloading dControl
 
 And you are good to go.
