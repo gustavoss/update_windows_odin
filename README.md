@@ -10,6 +10,8 @@ Your USB stick should look like this before starting this guide:
 
 ![App Screenshot](https://i.imgur.com/VHoJnOM.png)
 
+## In case of error dunring installation you don't need to start from scratch from QFIL, or repartition android/windows, just follow the steps carefully to prepare the USB stick again, insert it into your Odin and reboot. Installation will proceed as normal.
+
 ## Windows Image download and preparation
 1 - Go to https://massgrave.dev/windows_arm_links.html and download the latest Windows 11 ARM for your language
 
