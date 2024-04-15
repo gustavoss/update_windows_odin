@@ -88,7 +88,7 @@ Do not install Borderless Gaming as it seems to corrupt Windows installation.
 
 Activate .NET 2.0 and 3.5 from control panel: https://www.howtogeek.com/880208/how-to-enable-net-framework-2-0-and-3-5-in-windows-11/
 
-Install Visual C++ Redistributable:(ARM64, X86 and Xa64): https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+Install Visual C++ Redistributable:(ARM64, X86 and X64): https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
 [Install OpenCL™ and OpenGL® Compatibility Pack](https://www.microsoft.com/store/productId/9NQPSL29BFFF?ocid=pdpshare)
 
