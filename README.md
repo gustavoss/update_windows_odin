@@ -82,6 +82,10 @@ Your USB stick should look like this before starting this guide:
 
 ![App Screenshot](https://i.imgur.com/PtKBMSR.png)
 
+Video of NFS MW (doesn't work out of the box in Valhalla installation) , DMC4 and NFS Hot Pursuit running with the updated driver:
+
+https://www.youtube.com/watch?v=LeEsKOwLIXk
+
 # Fix games running only in windowed mode:
 
 Use Fullscreenizer: https://github.com/KasumiL5x/Fullscreenizer
