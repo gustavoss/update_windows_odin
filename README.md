@@ -90,11 +90,11 @@ https://www.youtube.com/watch?v=LeEsKOwLIXk
 
 You should now be able to enter graphics settings ingame, set everything to low.
 
-#### To get NFS Hot Pursuit to work, you have to open task manager with the game open, go to NFS11.exe process, right click, set affinity and uncheck core 0 and core 1, close game and:
-
-Go to My Documents\Criterion Games\Need for Speed(TM) Hot Pursuit open config.NFS11Save with text editor and replace everything with https://pastebin.com/37VNQZMU
+#### To get NFS Hot Pursuit to work, go to My Documents\Criterion Games\Need for Speed(TM) Hot Pursuit open config.NFS11Save with text editor and replace everything with https://pastebin.com/37VNQZMU and:
 
 Launch game. Decreasing resolution in this game has little to no impact on FPS, so I run it in 1080p.
+
+Open task manager with the game open, go to NFS11.exe process, right click, set affinity and uncheck core 0 and core 1, close game and:
 
 # Fix games running only in windowed mode:
 
