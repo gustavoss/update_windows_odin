@@ -38,7 +38,7 @@ Your USB stick should look like this before starting this guide:
 
 10 - In your USB stick, go to installer folder, open the install.cmd file with a text editor.
 
-11 - In line 57 change /Index:1 to /Index:2, this is because Windows 11 Pro is Index 2 in the retail ISOs. If you skip this step you will install Windows Business and will be able to login only with a corporate account.
+11 - In line 57 change /Index:1 to /Index:2, this is because Windows 11 Pro is Index 2 in the retail ISOs. If you skip this step you will install Windows Enterprise and will be able to login only with a corporate account.
 
     Line 57:
 
@@ -51,6 +51,8 @@ Your USB stick should look like this before starting this guide:
 ### Protip: during the windows setup do not connect to Wi-Fi to allow creation of local account
 
 ### After installation you can install updates from Windows Update like any other PC, but it takes some time to download and install
+
+### The "Getting ready" screen on first boot after removing USB might take some time, its not stuck, just wait and it will reboot itself
 
 ![App Screenshot](https://i.imgur.com/p2DE1Ay.png)
 
