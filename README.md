@@ -86,7 +86,7 @@ Your USB stick should look like this before starting this guide:
 
 Use Fullscreenizer: https://github.com/KasumiL5x/Fullscreenizer
 
-Go to Settings > Display Settings > Graphics Settings > Change default graphics settings.
+In Windows go to Settings > Display Settings > Graphics Settings > Change default graphics settings.
 
 Enable optimization for windowed games. This will allow the fake fullscreen of Fullscreenizer to run with real fullscreen performance.
 
