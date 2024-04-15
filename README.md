@@ -40,8 +40,7 @@ Your USB stick should look like this before starting this guide:
 
     Line 57:
 
-    From:
-    dism /Apply-Image /ImageFile:%WinPESource%images\install.swm /SwmFile:%WinPESource%images\install*.swm /Index:1 /ApplyDir:w: /ScratchDir:w:\temp
+    From: dism /Apply-Image /ImageFile:%WinPESource%images\install.swm /SwmFile:%WinPESource%images\install*.swm /Index:1 /ApplyDir:w: /ScratchDir:w:\temp
 
     To: dism /Apply-Image /ImageFile:%WinPESource%images\install.swm /SwmFile:%WinPESource%images\install*.swm /Index:2 /ApplyDir:w: /ScratchDir:w:\temp
 
@@ -50,3 +49,45 @@ Your USB stick should look like this before starting this guide:
 ### Protip: during the windows setup do not connect to Wi-Fi to allow creation of local account
 
 ### After installation you can install updates from Windows Update like any other PC, but it takes some time to download and install
+
+![App Screenshot](https://i.imgur.com/p2DE1Ay.png)
+
+# Update GPU Driver from POCO F1
+
+## This allows to run some games that were not running with stock valhalla drivers (ie Need For Speed Most Wanted 2005)
+
+1 - Go to https://github.com/edk2-porting/WOA-Drivers/releases/tag/2210.1-fix
+
+2 - Download the beryllium.zip file
+
+3 - Extract the GPU folder to your desktop
+
+4 - Go to device manager, video adapters, right click Adreno 630, update drivers
+
+5 - Choose to select driver from your computer, in the next screen select the option to search for drivers in a folder, select "from disk"
+
+6 - Select the qcdx850.inf file from your Desktop\GPU folder
+
+7 - It will display a message saying that the driver is not signed, install anyway
+
+8 - Your GPU will display as Adreno 680 in device manager, it works fine, just ignore
+
+![App Screenshot](https://i.imgur.com/PtKBMSR.png)
+
+# Other tweaks
+
+You can use winutil to debloat windows after installation, but I recommend using only the "tweaks" tab, don't use it to install softwares or to mess with windows update: https://github.com/ChrisTitusTech/winutil
+
+Do not install .NET 8.0 (any arch) as it seems to corrupt Windows installation.
+
+Do not install Borderless Gaming as it seems to corrupt Windows installation.
+
+Activate .NET 2.0 and 3.5 from control panel: https://www.howtogeek.com/880208/how-to-enable-net-framework-2-0-and-3-5-in-windows-11/
+
+Install Visual C++ Redistributable:(ARM64, X86 and Xa64): https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+
+[Install OpenCL™ and OpenGL® Compatibility Pack](https://www.microsoft.com/store/productId/9NQPSL29BFFF?ocid=pdpshare)
+
+Install DirectX Runtime: https://www.microsoft.com/en-us/download/details.aspx?id=35
+
+And you are good to go.
