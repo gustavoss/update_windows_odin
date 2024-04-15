@@ -10,6 +10,8 @@ Your USB stick should look like this before starting this guide:
 
 ![App Screenshot](https://i.imgur.com/VHoJnOM.png)
 
+## OR If you already have Windows and faced issues to update through Windows Update like me, you can start from here.
+
 ### In case of error during windows installation (after plugging USB stick step) you don't need to start from scratch from QFIL, or repartition android/windows, just follow the steps carefully to prepare the USB stick again, insert it into your Odin and reboot. Installation will proceed as normal.
 
 ## Windows Image download and preparation
